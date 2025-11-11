@@ -1,1 +1,1 @@
-This is the official implementation for "mnesia: A Stealthy Replay Attack on Continual Learning Dreams" Paper
+This is the official implementation for "Amnesia: A Stealthy Replay Attack on Continual Learning Dreams" paper
